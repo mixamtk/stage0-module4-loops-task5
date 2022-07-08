@@ -11,6 +11,6 @@ public class Triangle {
                     }
                 }
             }
-
+System.out.println();
     }
 }
